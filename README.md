@@ -34,5 +34,5 @@ extern INode *hashset_get(HashSet *hashset, Element *element);
 ### 7、遍历HashSet
 extern void hashset_traverse(HashSet *hashset);
 
-### 释放和清空HashSet
+### 8、释放和清空HashSet
 extern int hashset_clear(HashSet *hashset);
