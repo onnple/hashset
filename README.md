@@ -1,5 +1,5 @@
 # 散列表HashSet
-散列表开放寻址法实现HashMap，原文地址：  
+散列表开放寻址法实现HashMap，原文地址：http://www.srcmini.com/1507.html  
 
 ## 开放寻址的三种寻址法
 ### 1、线性探测
